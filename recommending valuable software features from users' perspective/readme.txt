@@ -12,6 +12,9 @@ Some notes about the programs are as follows:
 
     5.When running the file of recommend, you should modify the directory from which the product feature lists will be read. And a set of files showing the results of recommendation evaluation will be produced and saved under the director of data. These files save the values of precision, recall and f_1 under different ratios. 
 
-    6.If you have interests in such programs and there are some problems, please write the email to liuchun@henu.edu.cn.
+    6.The features identified manually are in the files of answer_manual_identified_features_compress and answer_manual_identified_feature_antivirus.
 
-    7.We would be grateful if you find some defects about the programs and send them to us. 
+    7.If you have interests in such programs and there are some problems, please write the email to liuchun@henu.edu.cn.
+
+    8.We would be grateful if you find some defects about the programs and send them to us. 
+
